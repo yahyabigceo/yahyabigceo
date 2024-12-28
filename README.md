@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 Welcome to my GitHub profile! Here's a little about me:  
 
-- 🌟 **Aspiration**: To become a skilled **Data Scientist** and contribute to impactful projects.  
+- 🌟 **Aspiration**: To become a skilled **Data Analyst** and contribute to impactful projects.  
 - 📘 **Education**: Pursuing a Bachelor's degree in Computer Science at SIES College.  
 - 🏢 **Experience**: Currently interning at **Drushya Digital India Pvt. Ltd.**, applying AI solutions to real-world problems.  
 
@@ -21,8 +21,8 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🛠️ Projects  
 
 - **BugBlocker**:  
-  - Enhances debugging processes for efficient software development.  
-  - Provides tools to identify, track, and resolve bugs effectively.  
+  - pest control services providing website.  
+  - Developed a responsive multi-page web platform for pest control services with user-friendly navigation, inquiry forms, animations.  
 
 - **Salah Reminder App**:  
   - A mobile app to help users manage and stay consistent with their daily prayers.  
