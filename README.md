@@ -17,12 +17,7 @@ I'm **Yahya Saukatali**, a **data enthusiast** and **aspiring data scientist** p
 ---
 
 ## 🛠️ Skills & Technologies  
-
-<p align="center">  
-  <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=py,sql,powerbi,excel,aws,numpy,tensorflow,pandas,seaborn,matplotlib,html,css,js,github,mysql,postgres,tableau,vscode,chatgpt&perline=8" alt="Skills and Technologies">  
-  </a>  
-</p>  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,sql,powerbi,excel,aws,numpy,tensorflow,pandas,seaborn,matplotlib,html,css,js,github,mysql,postgres,tableau,vscode,chatgpt&perline=6=3)
 
 ---
 
