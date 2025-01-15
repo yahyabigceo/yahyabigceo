@@ -40,15 +40,6 @@ I'm **Yahya Saukatali**, a **data enthusiast** and **aspiring data scientist** p
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=yahyabigceo&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyabigceo&layout=compact&theme=radical" alt="Top Languages" width="48%">  
-</p>  
-
----
-
 ## 🔄 Recent Activity  
 
 - ⭐ Created a new repository: **`Music_Store_Analysis_Project`**  
