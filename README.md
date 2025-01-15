@@ -17,8 +17,13 @@ I'm **Yahya Saukatali**, a **data enthusiast** and **aspiring data scientist** p
 ---
 
 ## 🛠️ Skills & Technologies  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,sql,powerbi,excel,aws,numpy,tensorflow,pandas,seaborn,matplotlib,html,css,js,github,mysql,postgres,tableau,vscode,chatgpt&perline=6=3)
-
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=py,sql,powerbi,excel,aws,numpy,tensorflow,pandas,seaborn,matplotlib,html,css,js,github,mysql,postgres,tableau,vscode,chatgpt"
+    />
+  </a>
+</p>
 ---
 
 ## 🚀 Top Projects  
