@@ -1,72 +1,62 @@
-
-
-
-
-# Hi, I'm Yahya 👋  
-
-🎓 **Final Year Computer Science Student** | 👨‍💻 **AI Intern**  
-🎯 Aspiring **Data Scientist** | 💡 Passionate Problem Solver  
+Here’s a tailored version of your GitHub profile README in the style you want:  
 
 ---
 
-## 🚀 About Me  
-Welcome to my GitHub profile! Here's a little about me:  
+## Hi there! 👋  
 
-- 🌟 **Aspiration**: To become a skilled **Data Analyst** and contribute to impactful projects.  
-- 📘 **Education**: Pursuing a Bachelor's degree in Computer Science at SIES College.  
-- 🏢 **Experience**: Currently interning at **Drushya Digital India Pvt. Ltd.**, applying AI solutions to real-world problems.  
+I'm **Yahya Saukatali**, a passionate data enthusiast and aspiring data scientist eager to solve complex problems with data-driven solutions. Let's connect and make an impact together!  
 
 ---
 
-## 🛠️ Projects  
+## About Me  
 
-- **BugBlocker**:  
-  - pest control services providing website.  
-  - Developed a responsive multi-page web platform for pest control services with user-friendly navigation, inquiry forms, animations.  
-
-- **Salah Reminder App**:  
-  - A mobile app to help users manage and stay consistent with their daily prayers.  
-  - Features customizable reminders and an intuitive interface.  
-
-- **Rock-Paper-Scissors Game**:  
-  - A Python-based game implementing simple logic and interactive gameplay.  
-  - Demonstrates programming skills in Python and basic game mechanics.  
-
-- **Grabdeal Sales Dashboard**:  
-  - A comprehensive **Power BI** project to analyze and visualize sales data.  
-  - Provides insights into customer trends, KPIs, product performance, and more.  
-
-- **Music Store Data Analysis**:  
-  - A SQL-based project analyzing customer preferences, revenue patterns, and employee performance.  
-  - Demonstrates advanced SQL techniques like CTEs and window functions.  
+I am a **computer science graduate** with a strong foundation in **Python**, **SQL**, and **data visualization**. My passion lies in uncovering insights from data and contributing to innovative projects. I'm always learning and exploring new technologies while collaborating on meaningful initiatives.  
 
 ---
 
-## 🛠️ Technical Skills  
-- **Programming**: Python, SQL  
-- **Data Tools**: Power BI, Excel, Pandas, NumPy, Matplotlib, Seaborn  
-- **Cloud Platforms**: AWS  
-- **Certifications**:  
-  - Data Analysis with Python (freeCodeCamp.org)  
-  - AWS Academy Graduate - Data Engineering  
+## Skills & Technologies  
+
+[![My Skills](https://skillicons.dev/icons?i=py,sql,powerbi,excel,linkedin,aws,tensorflow,pycharm,replit,sklearn,html,css,js,github,mysql,postgres,vscode&perline=8)](https://skillicons.dev)  
 
 ---
 
-## 📈 My Goals  
-- 🌱 Learning **data structures and algorithms** to sharpen problem-solving.  
-- 🌟 Long-term aspiration: To leverage technology for societal good as a **philanthropist**.  
+## Top Projects  
+- **[Music Store Data Analysis](https://github.com/yahyabigceo/Music_Store_Analysis_Project)**  
+  Conducted SQL-based analysis to uncover customer preferences and revenue trends.  
+
+- **[Grabdeal Sales Dashboard](https://github.com/yahyabigceo/Grabdeal_Sales_Power-BI_project)**  
+  Designed an interactive Power BI dashboard for sales performance and customer insights.  
+
+- **[Salah Reminder Application](https://github.com/yahyabigceo/basic_python_projects)**  
+  A Python-based app to notify users about prayer times using APIs.  
 
 ---
 
-## 📬 Connect With Me  
-Feel free to reach out:  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yahya-saukatali-833061328/)  
-- ✉️ Email: [yahyashaikhworks@gmail.com](mailto:yahyashaikhworks@gmail.com)  
+## GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyabigceo&show_icons=true&theme=radical)  
+- Public Repositories: 10  
+- Followers: 5  
+- Following: 8  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyabigceo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
-## 🌟 Fun Fact  
-When I’m not coding, I’m either **trekking** or enjoying a good **comic book**! 🏞️📖  
+## Recent Activity  
 
----  
+- ⭐ Created a new repository: `Music_Store_Analysis_Project`  
+- 🔄 Contributed to `Grabdeal_Sales_Power-BI_project`  
+
+---
+
+## Latest Blog Posts  
+
+Currently, I don't have any blog posts to share, but I plan to write about data analysis, visualization, and my tech journey soon!  
+
+---
+
+## Connect with Me  
+
+[LinkedIn Profile](https://www.linkedin.com/in/yahya-saukatali-833061328/)  
 
