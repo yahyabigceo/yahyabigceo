@@ -15,7 +15,7 @@ I'm **Yahya Saukatali**, a data enthusiast and aspiring data scientist passionat
 
 ## 🛠️ Skills & Technologies  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,sql,excel,linkedin,aws,numpy,tensorflow,pycharm,replit,sklearn,html,css,js,github,mysql,postgres,vscode,chatgpt&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,excel,linkedin,aws,numpy,tensorflow,pycharm,replit,sklearn,html,css,js,github,mysql,postgres,vscode,chatgpt&titles=true)
 
 ---
 
