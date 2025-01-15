@@ -1,7 +1,3 @@
-Here’s an improved version of your GitHub profile README:  
-
----
-
 ## Hi there! 👋  
 
 I'm **Yahya Saukatali**, a data enthusiast and aspiring data scientist passionate about solving complex problems through data-driven solutions. I thrive on uncovering meaningful insights, building innovative projects, and continuously learning new technologies. Let’s connect and create something impactful together!  
@@ -19,7 +15,7 @@ I'm **Yahya Saukatali**, a data enthusiast and aspiring data scientist passionat
 
 ## 🛠️ Skills & Technologies  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,sql,excel,linkedin,aws,tensorflow,pycharm,replit,sklearn,html,css,js,github,mysql,postgres,vscode,chatgpt&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,sql,excel,linkedin,aws,numpy,tensorflow,pycharm,replit,sklearn,html,css,js,github,mysql,postgres,vscode,chatgpt&titles=true)
 
 ---
 
